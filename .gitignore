@@ -1,0 +1,11 @@
+# Personal resume content — keep off GitHub
+resume_data.py
+resumes/
+
+# But keep the example file
+!resumes/example.txt
+
+# Python
+venv/
+__pycache__/
+*.pyc
