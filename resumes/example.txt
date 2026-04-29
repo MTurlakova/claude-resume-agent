@@ -1,0 +1,23 @@
+# Example resume file
+# Add your resume variants as plain text files in this folder (e.g. analytics.txt, healthcare.txt)
+# Tailored versions are saved automatically to resumes/tailored/ after each session
+# All files in this folder except example.txt are gitignored
+
+YOUR NAME
+City, State | phone | email
+
+SUMMARY
+...
+
+EXPERIENCE
+
+Employer | City, State | Dates
+Job Title
+- Bullet point
+- Bullet point
+
+EDUCATION
+...
+
+SKILLS
+...
